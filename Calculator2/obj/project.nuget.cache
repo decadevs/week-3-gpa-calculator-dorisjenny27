@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KBD+buP5rFZW4BtRmop7jq2y5bdcFE7WkQtDN+rmfyhPDImhw95q7orVwxpBw0waQ7GYfnKwuysAFv9ImHiJOw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\OneDrive\\Desktop\\ASSIGNMENTS\\Calculator2\\Calculator2\\Calculator2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\consoletables\\2.6.1\\consoletables.2.6.1.nupkg.sha512"
+  ],
+  "logs": []
+}
